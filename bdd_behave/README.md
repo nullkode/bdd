@@ -17,3 +17,17 @@ This example is written to showcase BDD automation using python. This is not a f
 # Setup
 
 In the `bdd_behave` directory, open terminal and run `make`
+
+# Usage
+
+1. Clone or Download the project.
+2. Install all the dependencies as mentioned in the `Setup`
+3. From terminal, execute `behave <path to feature file>
+
+# Contributing
+
+@nullkode
+
+# License
+
+GNU General Public License v3.0
